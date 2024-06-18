@@ -15,13 +15,13 @@ workflows:
         category: output
         randomize: true
       - path: 10.inputs.image
-        parameter_name: image
+        parameter_name: image_1
         type: string
         demo_type: image
         category: input
         randomize: false
       - path: 11.inputs.image
-        parameter_name: image
+        parameter_name: image_2
         type: string
         demo_type: image
         category: input
