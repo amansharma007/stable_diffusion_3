@@ -2,4 +2,8 @@ models: models.json
 custom_nodes: custom_nodes.json
 user_models: user_models.json
 user_custom_nodes: user_custom_nodes.json
-workflows: []
+workflows:
+  - id: gjgmqf7gqcv
+    name: image_blend.json
+    description: ''
+    file: basic_workflows/image_blend.json
